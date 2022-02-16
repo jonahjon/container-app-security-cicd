@@ -4,7 +4,7 @@
   "description": "A basic app to be used as a demo when testing clustered deployments.",
   "main": "src/app.js",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.5",
     "chai-http": "^4.3.0",
     "express": "^4.17.1",
     "express-generator": "^4.2.0",
