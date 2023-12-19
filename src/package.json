@@ -5,7 +5,7 @@
   "main": "src/app.js",
   "dependencies": {
     "chai": "^4.2.0",
-    "chai-http": "^4.3.0",
+    "chai-http": "^4.4.0",
     "express": "^4.17.1",
     "express-generator": "^4.2.0",
     "mocha": "^8.2.0",
