@@ -6,9 +6,9 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "express-generator": "^4.2.0",
-    "mocha": "^8.2.0",
+    "mocha": "^10.3.0",
     "npm": "^7.6.1"
   },
   "devDependencies": {
