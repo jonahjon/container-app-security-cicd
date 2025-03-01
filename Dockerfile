@@ -1,5 +1,5 @@
 ### Our base image
-FROM amazonlinux
+FROM amazonlinux:2023.6.20250218.2
 
 ### Update our image
 RUN yum update -y
